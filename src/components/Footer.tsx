@@ -28,7 +28,7 @@ export default function Footer(): JSX.Element {
           color="inherit"
           target="_blank"
           rel="noopener"
-          href="https://github.com/Xhale1/portfolio-site/"
+          href="https://github.com/Xhale1/claire-lindstadt-portfolio"
         >
           ❤️ Open Source
         </Link>
