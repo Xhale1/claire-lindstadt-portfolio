@@ -6,7 +6,7 @@ export default function HeroSection(): JSX.Element {
       <Grid item xs={12} md={6}>
         <Typography variant="h1">Claire Lindstadt</Typography>
         <Typography variant="body1">
-          San Francisco bay area design consultant.
+          San Francisco bay area designer specializing in web and mobile UX.
         </Typography>
         <Box sx={{ my: 3 }}>
           <Link href="tel:4254423383" sx={{ pr: 2 }}>
