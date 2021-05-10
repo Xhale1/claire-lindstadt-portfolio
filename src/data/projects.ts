@@ -7,8 +7,9 @@ export const projects: Project[] = [
     image: "/assets/locals.png",
     width: 622,
     height: 350,
-    description: "Currently doing UX work for a startup called Locals.",
-    subtitleDescription: "Mobile app UX",
+    description:
+      "Contributed to wireframing and prototyping of an MVP for the startup Locals.",
+    subtitleDescription: "UX Designer",
     links: [
       { name: "Screenshot 1", url: "/assets/locals1.png" },
       { name: "Screenshot 2", url: "/assets/locals2.png" },
@@ -58,13 +59,13 @@ export const projects: Project[] = [
   },
   {
     title: "Graphic design",
-    date: "2018",
+    date: "2019",
     image: "/assets/ffacoalition.png",
     width: 700,
     height: 492,
     description:
       "Designed graphics for Factory Farming Awareness Coalition's outreach curriculum.",
-    subtitleDescription: "Design specialist",
+    subtitleDescription: "Graphic design",
     links: [{ name: "Website", url: "https://www.ffacoalition.org/" }],
     isWide: false,
     isWebScreenshot: true,
@@ -72,7 +73,7 @@ export const projects: Project[] = [
   },
   {
     title: "Seaside sustainability",
-    date: "2018",
+    date: "2020",
     image: "/assets/seaside-sustainability.png",
     width: 700,
     height: 492,
@@ -85,12 +86,12 @@ export const projects: Project[] = [
   },
   {
     title: "Network Organizer",
-    date: "2018",
+    date: "2020",
     image: "/assets/lgbteaq.png",
     width: 700,
     height: 350,
-    description: "Hosted several talks with an LGBTQ group.",
-    subtitleDescription: "Design specialist",
+    description: "Hosted several speaking events with queer leaders in tech.",
+    subtitleDescription: "Co-founder",
     links: [{ name: "Substack", url: "https://teatime.substack.com/" }],
     isWide: false,
     titleColor: "#0069c0",
